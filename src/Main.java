@@ -3,5 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello classmates!");
+        System.out.println("Lets ace this course!");
     }
 }
